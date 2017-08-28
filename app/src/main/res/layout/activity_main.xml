@@ -30,7 +30,6 @@
                 android:hint="Operaciones"
                 android:gravity="right"
                 android:cursorVisible="true"
-                android:textAlignment="textEnd"
                 android:id="@+id/eOperaciones"
                 android:textSize="28dp"
 
